@@ -38,11 +38,6 @@
 </div>
 
 ###
-<div align="center">
-[![Website](https://img.shields.io/badge/Website-seninwebsiten.com-blue?style=for-the-badge&logo=google-chrome)](https://www.feritbulut.com.tr)
-</div>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=feritbulut&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
