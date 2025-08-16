@@ -38,9 +38,9 @@
 </div>
 
 ###
-
+<div align="center">
 [![Website](https://img.shields.io/badge/Website-seninwebsiten.com-blue?style=for-the-badge&logo=google-chrome)](https://www.feritbulut.com.tr)
-
+</div>
 
 ###
 
