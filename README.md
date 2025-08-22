@@ -45,8 +45,6 @@
 </div>
 
 ###
-<iframe src="https://hackerrank-badge.herokuapp.com/fertbult?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=feritbulut&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
