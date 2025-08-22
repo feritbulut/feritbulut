@@ -38,9 +38,9 @@
 </div>
 
 ###
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/fertbult?theme=light&font=ABeeZee&ext=activity)
-
+<div align="center">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/fertbult?theme=radical&font=ABeeZee&ext=activity)
+</div>
 ###
 
 <div align="center">
