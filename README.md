@@ -38,8 +38,11 @@
 </div>
 
 ###
+<div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/fertbult?theme=radical&font=ABeeZee&ext=activity)
+
+</div>
 
 ###
 
