@@ -3,21 +3,27 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
+  
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
-  <img width="12" />
+</br>
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
+
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernet logo"  />
+
 </div>
 
 ###
