@@ -32,7 +32,12 @@
   <a href="https://www.nuget.org/profiles/feritbulut">
   <img width="150" height="260" alt="Nuget" src="https://github.com/user-attachments/assets/bae893ce-3f0f-4f7a-9b2e-73eab749994f" />
   </a>
+
+  <a href="https://www.kaggle.com/feritbulut">
+  <img width="150" height="260" alt="Kaggle" src="https://github.com/user-attachments/assets/f8488b64-d48f-40df-ab87-a96818194dfe" />
+  </a>
 </div>
+
 
 </br>
 
