@@ -93,14 +93,14 @@ I'm a **Software Engineering** student at Hasan Kalyoncu University (2022–2027
 
 ## 🎓 Education & Certifications
 
-**B.Sc. Software Engineering** — Hasan Kalyoncu University (2022–2027)
+**B.Sc. Software Engineering** - Hasan Kalyoncu University (2022–2027)
 
-- IBM Data Engineering Specialization — *IBM*
-- Associate Data Engineer in SQL — *DataCamp*
-- Machine Learning Specialization — *Stanford University*
-- AWS AI & ML Scholars — *Udacity*
-- CS50's Introduction to Databases with SQL — *Harvard University*
-- CS50x: Introduction to Computer Science — *Harvard University*
+- IBM Data Engineering Specialization - *IBM*
+- Associate Data Engineer in SQL - *DataCamp*
+- Machine Learning Specialization - *Stanford University*
+- AWS AI & ML Scholars - *Udacity*
+- CS50's Introduction to Databases with SQL - *Harvard University*
+- CS50x: Introduction to Computer Science - *Harvard University*
 
 <br>
 
