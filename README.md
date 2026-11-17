@@ -96,6 +96,7 @@ I'm a **Software Engineering** student at Hasan Kalyoncu University (2022–2027
 **B.Sc. Software Engineering** - Hasan Kalyoncu University (2022–2027)
 
 - IBM Data Engineering Specialization - *IBM*
+- Data Engineering, Big Data, and Machine Learning on GCP - *Google Cloud*
 - Associate Data Engineer in SQL - *DataCamp*
 - Machine Learning Specialization - *Stanford University*
 - AWS AI & ML Scholars - *Udacity*
